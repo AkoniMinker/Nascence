@@ -1,0 +1,76 @@
+
+Mods: {
+	Nascence: {
+		Items: {
+			Dawnstaff: {
+				DisplayName: Dawnstaff
+				Tooltip: This is a basic modded staff.
+			}
+
+			DuskRenewal: {
+				DisplayName: Dusk Renewal
+				Tooltip: This is a basic modded sword.
+			}
+
+			DyingSpark: {
+				DisplayName: Dying Spark
+				Tooltip: This is a basic modded staff.
+			}
+
+			EmbersEnd: {
+				DisplayName: Ember's End
+				Tooltip: This is a basic modded staff.
+			}
+
+			Embrace: {
+				DisplayName: Embrace
+				Tooltip: This is a basic modded sword.
+			}
+
+			EmpryeaStaff: {
+				DisplayName: Empryea Staff
+				Tooltip: This is a basic modded staff.
+			}
+
+			ExtinguishedFlame: {
+				DisplayName: Extinguished Flames
+				Tooltip: This is a basic modded staff.
+			}
+
+			FadingEmbers: {
+				DisplayName: Fading Embers
+				Tooltip: This is a basic modded staff.
+			}
+
+			FaintFlame: {
+				DisplayName: Faint Flame
+				Tooltip: This is a basic modded staff.
+			}
+
+			GuttingFlame: {
+				DisplayName: Gutting Flames
+				Tooltip: This is a basic modded staff.
+			}
+
+			SmolderingGloam: {
+				DisplayName: Smoldering Gloam
+				Tooltip: This is a basic modded staff.
+			}
+
+			TwilightFury: {
+				DisplayName: Twilight Fury
+				Tooltip: This is a basic modded staff.
+			}
+
+			WaningFire: {
+				DisplayName: Waning Fire
+				Tooltip: This is a basic modded staff.
+			}
+
+			FuryPickaxe: {
+				DisplayName: Fury Pickaxe Axe
+				Tooltip: This is a modded Pickaxe Axe.
+			}
+		}
+	}
+}
